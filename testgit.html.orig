@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
+    <title>Document ofline</title>
+=======
+    <title>Document Meld</title>
+>>>>>>> de9de9639ad5e9230727bd3c385cf10ec3b443e0
+</head>
+<body>
+    <p>Test desde git</p>
+    <p>Modificación para meld</p>
+</body>
+</html>
